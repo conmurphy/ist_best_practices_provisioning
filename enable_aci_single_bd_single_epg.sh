@@ -1,11 +1,5 @@
 #!/bin/sh
 
-# github token
-# github username
-# terraform github oath token
-# terraform user token
-# organization name
-
 # Coloured text
 GREEN=$'\e[0;32m'
 RED=$'\e[0;31m'
