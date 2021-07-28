@@ -1,0 +1,5 @@
+export GITHUB_TOKEN=ghp_Vxxxxx
+export OAUTH_TOKEN_ID=ot-XUNxxxxx
+export TERRAFORM_TOKEN=X123456qwerty.123456qwerty.123456qwerty123456qwerty123456qwerty123456qwerty123456qwerty
+export TERRAFORM_ORGANIZATION_NAME=my_terraform_org
+export TERRAFORM_AGENT_POOL_NAME=my_terraform_agent_pool
