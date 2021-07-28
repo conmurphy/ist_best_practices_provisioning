@@ -132,5 +132,6 @@ Workspace ID: ws-xxxxxxx
 - Click `Start plan`
 
 - You should see that Terraform is running and plan and will create a new Terraform workspace for each application that you've configured.
-- This workspace will also be configured and connected automatically with a new Github repo that has been created. The repo will contain all the configuration necessary to deploy the individual ACI application profile, ACI endpoint groups, and other resources.
+- This workspace is configured and connected automatically with a new Github repo that has been created. The repo will contain all the configuration necessary to deploy the individual ACI application profile, ACI endpoint groups, and other resources.
 - The workspace has also been configured with the required variables
+- You are now ready to get started with your application profile deployment
